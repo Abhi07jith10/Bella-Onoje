@@ -35,9 +35,6 @@ Remix Icons
 │   └── logo-white.png
 └── README.md
 ```
-Sections Included
-Navigation Bar
-Hero Section
-How the App Works
-Download App Section
-Footer with Social Media Links
+![Web page](1.png)
+![Web page](2.png)
+![Web page](3.png)
