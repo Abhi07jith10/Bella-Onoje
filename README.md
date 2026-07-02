@@ -17,7 +17,10 @@ JavaScript (ES6)
 ScrollReveal.js
 Remix Icons
 
-📂 Project Structure
+## 📂 Project Structure
+
+```text
+.
 ├── index.html
 ├── style.css
 ├── task1.js
@@ -31,7 +34,7 @@ Remix Icons
 │   ├── logo-dark.png
 │   └── logo-white.png
 └── README.md
-
+```
 Sections Included
 Navigation Bar
 Hero Section
